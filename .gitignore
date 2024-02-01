@@ -1,0 +1,29 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# production
+/build
+
+# misc
+.DS_Store
+
+# local env files
+.env
+.env.local
+.env.dev
+.env.production
+.env.mainnet
+.env.testnet
+
+
+# typescript
+*.tsbuildinfo
+package.zip
+pm2.config.js
+listing_data*
+opensea-venv
+.idea
+__pycache__
+nfts_meta*
